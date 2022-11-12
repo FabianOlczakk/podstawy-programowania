@@ -29,5 +29,5 @@ int main() {
     cout << "Max: " << max << "\n";
     cout << "Min: " << min << "\n";
 
-    return 0;
+    return 1;
 }

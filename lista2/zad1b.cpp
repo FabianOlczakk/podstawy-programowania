@@ -9,5 +9,5 @@ int main() {
         printf("%0.*f\n", i, M_PI);
     }
 
-    return 0;
+    return 1;
 }

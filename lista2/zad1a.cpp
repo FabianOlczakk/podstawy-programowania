@@ -54,5 +54,5 @@ int main() {
         printf("%i\t%c\t%s\t%i\n", i, char(i), decToHex(i).c_str(), decToOct(i));
     }
 
-    return 0;
+    return 1;
 }
