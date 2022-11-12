@@ -14,6 +14,7 @@
       <config projectName="Project" targetName="zad1a" />
       <config projectName="Project" targetName="zad1b" />
       <config projectName="Project" targetName="zad1c" />
+      <config projectName="Project" targetName="zad1d" />
     </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="true">
@@ -22,11 +23,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af673a76-7fff-4cf6-94a2-e76c77942b25" name="Changes" comment="zad1b">
-      <change afterPath="$PROJECT_DIR$/lista2/zad1c.cpp" afterDir="false" />
+    <list default="true" id="af673a76-7fff-4cf6-94a2-e76c77942b25" name="Changes" comment="zad1c">
+      <change afterPath="$PROJECT_DIR$/lista2/zad1d.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lista2/zad1b.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lista2/zad1b.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +87,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="CMake Application.zad1c">
+  <component name="RunManager" selected="CMake Application.zad1d">
     <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="CLION.EXTERNAL.BUILD" enabled="true" />
@@ -108,10 +108,16 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="zad1d" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="zad1d" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="zad1d">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="CMake Application.zad1a" />
       <item itemvalue="CMake Application.zad1b" />
       <item itemvalue="CMake Application.zad1c" />
+      <item itemvalue="CMake Application.zad1d" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -122,7 +128,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668256547913</updated>
-      <workItem from="1668256551621" duration="6972000" />
+      <workItem from="1668256551621" duration="8965000" />
     </task>
     <task id="LOCAL-00001" summary="zad1a">
       <created>1668259891551</created>
@@ -138,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668267644878</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="zad1c">
+      <created>1668273912942</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668273912942</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,6 +172,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="zad1a" />
     <MESSAGE value="zad1b" />
-    <option name="LAST_COMMIT_MESSAGE" value="zad1b" />
+    <MESSAGE value="zad1c" />
+    <option name="LAST_COMMIT_MESSAGE" value="zad1c" />
   </component>
 </project>
