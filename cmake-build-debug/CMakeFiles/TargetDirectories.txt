@@ -1,0 +1,7 @@
+/Users/leszekolczak/Desktop/podstawy-programowania/cmake-build-debug/CMakeFiles/zad1a.dir
+/Users/leszekolczak/Desktop/podstawy-programowania/cmake-build-debug/CMakeFiles/zad1b.dir
+/Users/leszekolczak/Desktop/podstawy-programowania/cmake-build-debug/CMakeFiles/zad1c.dir
+/Users/leszekolczak/Desktop/podstawy-programowania/cmake-build-debug/CMakeFiles/zad1d.dir
+/Users/leszekolczak/Desktop/podstawy-programowania/cmake-build-debug/CMakeFiles/zad1e.dir
+/Users/leszekolczak/Desktop/podstawy-programowania/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/leszekolczak/Desktop/podstawy-programowania/cmake-build-debug/CMakeFiles/rebuild_cache.dir

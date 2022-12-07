@@ -3,16 +3,15 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
-  <component name="CMakePresetLoader"><![CDATA[{
-  "useNewFormat": true
-}]]></component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
   <component name="CMakeReloadState">
     <option name="reloaded" value="true" />
   </component>
   <component name="CMakeRunConfigurationManager">
     <generated>
       <config projectName="Project" targetName="zad1e" />
-      <config projectName="Project" targetName="zad+" />
       <config projectName="Project" targetName="zad1a" />
       <config projectName="Project" targetName="zad1b" />
       <config projectName="Project" targetName="zad1c" />
@@ -26,14 +25,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af673a76-7fff-4cf6-94a2-e76c77942b25" name="Changes" comment="zad1d">
-      <change afterPath="$PROJECT_DIR$/lista2/zad+.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lista2/zad1e.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/podstawy-programowania.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lista4/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lista4/zad1a.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lista4/zad1b.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lista4/zad1c.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lista4/zad1d.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lista4/zad1e.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lista2/zad1a.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lista2/zad1a.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lista2/zad1b.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lista2/zad1b.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lista2/zad1c.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lista2/zad1c.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lista2/zad1d.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lista2/zad1d.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,31 +72,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "last_opened_file_path": "/Users/leszekolczak/Desktop/repo",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/leszekolczak/Desktop/repo&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="CMake Application.zad+">
+  <component name="RunManager" selected="CMake Application.zad1e">
     <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="CLION.EXTERNAL.BUILD" enabled="true" />
@@ -125,13 +128,7 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="zad+" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="zad+" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="zad+">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="CMake Application.zad+" />
       <item itemvalue="CMake Application.zad1a" />
       <item itemvalue="CMake Application.zad1b" />
       <item itemvalue="CMake Application.zad1c" />
@@ -148,6 +145,8 @@
       <option name="presentableId" value="Default" />
       <updated>1668256547913</updated>
       <workItem from="1668256551621" duration="10928000" />
+      <workItem from="1670335991824" duration="4345000" />
+      <workItem from="1670357824388" duration="7627000" />
     </task>
     <task id="LOCAL-00001" summary="zad1a">
       <created>1668259891551</created>
