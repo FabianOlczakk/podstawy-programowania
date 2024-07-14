@@ -1,0 +1,137 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test-Debug-8a91afc774e985c083e4.json",
+					"name" : "test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test1-Debug-a57db6c8f615f8da8211.json",
+					"name" : "test1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad+::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad+-Debug-15e87da29560e984da5c.json",
+					"name" : "zad+",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad1a::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad1a-Debug-f91ac7d7aee286351d63.json",
+					"name" : "zad1a",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad1ac::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad1ac-Debug-4b0e8b4a880eb85d9e60.json",
+					"name" : "zad1ac",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad1b::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad1b-Debug-2c64154cfb224497170c.json",
+					"name" : "zad1b",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad1bc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad1bc-Debug-7ab5fe80f2fba15c9817.json",
+					"name" : "zad1bc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad1c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad1c-Debug-12ddb1449d03fd661e71.json",
+					"name" : "zad1c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad1d::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad1d-Debug-87880f01af4d86e4516f.json",
+					"name" : "zad1d",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zad1e::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zad1e-Debug-9945001d4952094be3ce.json",
+					"name" : "zad1e",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/fabia/Desktop/Programowanie/podstawy-programowania/cmake-build-debug",
+		"source" : "C:/Users/fabia/Desktop/Programowanie/podstawy-programowania"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
